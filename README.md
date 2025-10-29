@@ -3,7 +3,7 @@
 # � AI-Powered Bilingual Menu Translation System
 ### English → Hindi | English → Kannada
 
-[![CI](https://github.com/YOUR_USERNAME/bilingual-menu-translation/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/bilingual-menu-translation/actions/workflows/ci.yml)
+[![CI](https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/docs/transformers)
@@ -18,6 +18,83 @@
 ## 🎯 Overview
 
 A comprehensive, enterprise-ready solution for translating hotel and restaurant menu items from English to Hindi and Kannada. Powered by state-of-the-art transformer models (**MarianMT** for Hindi, **IndicBART** for Kannada) fine-tuned on 500+ curated culinary items. Features include OCR text extraction, dual web interfaces, and quantitative BLEU score validation—ready for immediate deployment in hospitality environments.
+
+---
+
+## 🔬 Research Gap & Motivation
+
+### Current Challenges in Restaurant Translation Systems:
+1. **Generic Translation Models**: Existing translation APIs (Google Translate, Microsoft Translator) are not optimized for food/culinary domain terminology
+2. **Limited Indic Language Support**: Most systems lack specialized models for Indian regional languages with proper contextual understanding
+3. **No Domain Adaptation**: Off-the-shelf models fail to capture nuances of Indian cuisine names and cooking styles
+4. **Expensive API Dependencies**: Cloud-based solutions incur recurring costs and require internet connectivity
+5. **Lack of OCR Integration**: No unified system combining menu image recognition with translation
+6. **Poor Evaluation Metrics**: Absence of quantitative validation (BLEU scores) for translation quality in restaurant domain
+
+### Our Solution Addresses:
+✅ **Domain-Specific Fine-tuning**: Models trained specifically on culinary vocabulary  
+✅ **Indic Language Expertise**: Specialized IndicBART for Kannada with superior performance  
+✅ **Offline-First Architecture**: Fully functional without internet dependency post-deployment  
+✅ **End-to-End Pipeline**: OCR → Translation → Export in single workflow  
+✅ **Quantitative Validation**: BLEU score evaluation with beam search optimization  
+✅ **Cost-Effective**: One-time training cost vs. recurring API fees  
+
+---
+
+## 💎 Uniqueness & Novelty
+
+### What Makes This System Stand Out:
+
+| Feature | This System | Generic Translation APIs | Academic Research |
+|---------|-------------|-------------------------|-------------------|
+| **Domain Specialization** | ✅ Fine-tuned on 500+ menu items | ❌ General-purpose | ⚠️ Usually limited datasets |
+| **Indic Language Optimization** | ✅ IndicBART + MarianMT hybrid | ❌ Single model approach | ⚠️ Single language focus |
+| **Production Ready** | ✅ Dual UI, OCR, CSV export | ❌ API-only | ❌ Proof-of-concept only |
+| **Offline Capability** | ✅ Self-hosted models | ❌ Internet required | N/A |
+| **Beam Search Decoding** | ✅ 5-beam optimization | ⚠️ Hidden/unknown | ⚠️ Not always implemented |
+| **Quantitative Metrics** | ✅ BLEU + precision scores | ❌ No validation | ✅ Usually included |
+| **Cost Model** | ✅ One-time setup | ❌ Pay-per-use | N/A |
+| **Reproducibility** | ✅ Complete notebook | N/A | ⚠️ Often incomplete |
+
+### Technical Innovations:
+
+1. **Hybrid Model Architecture**
+   - Primary: IndicBART (state-of-the-art for Indic languages)
+   - Fallback: MarianMT (reliable multilingual coverage)
+   - Automatic model selection based on availability
+
+2. **Optimized Training Pipeline**
+   - Gradient accumulation for effective larger batch sizes
+   - Warmup scheduling for stable convergence
+   - Early stopping and best model checkpointing
+   - Mixed-precision training (FP16) for GPU efficiency
+
+3. **Multi-Modal Input Support**
+   - Text-based direct translation
+   - OCR-based image processing with EasyOCR
+   - Batch translation capabilities
+
+4. **Production-Grade Features**
+   - Comprehensive error handling
+   - Multiple export formats (CSV, interactive display)
+   - Real-time statistics and analytics
+   - Dual interface options (Streamlit + Gradio)
+
+5. **Reproducible Research**
+   - Complete Jupyter notebook with visualizations
+   - Detailed hyperparameter documentation
+   - Training metrics and loss curves
+   - Sample translations with ground truth
+
+### Research Contributions:
+
+📊 **Dataset**: Curated 500+ menu items across 14 food categories  
+🤖 **Models**: Fine-tuned transformers achieving 45-60 BLEU scores  
+📈 **Evaluation**: Comprehensive analysis with category-wise performance  
+🔧 **Tools**: Open-source, extensible codebase for further research  
+📚 **Documentation**: Complete pipeline from data to deployment  
+
+---
 
 ## ✨ Features
 
@@ -417,6 +494,6 @@ For questions or issues:
 
 ---
 
-**Built with ❤️ for the hospitality industry**
+**Built with ❤️ By Rk_Suvanrna for the hospitality industry**
 
 🌟 Star this project if you find it useful!
