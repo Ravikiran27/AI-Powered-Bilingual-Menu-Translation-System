@@ -1,6 +1,6 @@
 <div align="center">
 
-# � AI-Powered Bilingual Menu Translation System
+# 🤖  AI-Powered Bilingual Menu Translation System
 ### English → Hindi | English → Kannada
 
 [![CI](https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System/actions/workflows/ci.yml)
