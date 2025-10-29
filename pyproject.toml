@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Ravikiran", email = "ravikiran27@github.com"}
 ]
 keywords = ["translation", "NLP", "transformers", "Hindi", "Kannada", "OCR", "menu"]
 classifiers = [
@@ -56,10 +56,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/bilingual-menu-translation"
-Documentation = "https://github.com/YOUR_USERNAME/bilingual-menu-translation#readme"
-Repository = "https://github.com/YOUR_USERNAME/bilingual-menu-translation.git"
-Issues = "https://github.com/YOUR_USERNAME/bilingual-menu-translation/issues"
+Homepage = "https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System"
+Documentation = "https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System#readme"
+Repository = "https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System.git"
+Issues = "https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System/issues"
 
 [tool.setuptools]
 packages = ["bilingual_menu_translation"]

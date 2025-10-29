@@ -49,7 +49,7 @@ git commit -m "chore: initial commit - bilingual menu translation system
 gh auth login
 
 # Create repository and push
-gh repo create bilingual-menu-translation --public --source=. --remote=origin --push
+gh repo create AI-Powered-Bilingual-Menu-Translation-System --public --source=. --remote=origin --push
 
 # Done! Repository is created and code is pushed
 ```
@@ -57,8 +57,8 @@ gh repo create bilingual-menu-translation --public --source=. --remote=origin --
 ### Option B: Manual Setup via GitHub Web
 
 1. Go to https://github.com/new
-2. Repository name: `bilingual-menu-translation`
-3. Description: "AI-powered bilingual menu translation for English to Hindi and Kannada"
+2. Repository name: `AI-Powered-Bilingual-Menu-Translation-System`
+3. Description: "AI-powered bilingual menu translation for English to Hindi and Kannada with domain-specific fine-tuning"
 4. Visibility: Public
 5. **DO NOT** initialize with README, .gitignore, or license (we already have these)
 6. Click "Create repository"
@@ -66,8 +66,8 @@ gh repo create bilingual-menu-translation --public --source=. --remote=origin --
 Then connect and push:
 
 ```powershell
-# Add remote origin (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/bilingual-menu-translation.git
+# Add remote origin
+git remote add origin https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System.git
 
 # Verify remote
 git remote -v

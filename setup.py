@@ -9,12 +9,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="bilingual-menu-translation",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Ravikiran",
+    author_email="ravikiran27@github.com",
     description="AI-powered bilingual menu translation system for English to Hindi and Kannada",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YOUR_USERNAME/bilingual-menu-translation",
+    url="https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

@@ -1,10 +1,23 @@
-# 🍽️ Bilingual Hotel Menu Display System
+<div align="center">
+
+# � AI-Powered Bilingual Menu Translation System
+### English → Hindi | English → Kannada
 
 [![CI](https://github.com/YOUR_USERNAME/bilingual-menu-translation/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/bilingual-menu-translation/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/docs/transformers)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 
-A complete AI-powered solution for translating hotel menu items from English to Hindi and Kannada using state-of-the-art transformer models with OCR support. Built with fine-tuned **MarianMT** and **IndicBART** models on a curated dataset of 500 menu items.
+**Transform your restaurant's multilingual service with production-ready AI translation**
+
+</div>
+
+---
+
+## 🎯 Overview
+
+A comprehensive, enterprise-ready solution for translating hotel and restaurant menu items from English to Hindi and Kannada. Powered by state-of-the-art transformer models (**MarianMT** for Hindi, **IndicBART** for Kannada) fine-tuned on 500+ curated culinary items. Features include OCR text extraction, dual web interfaces, and quantitative BLEU score validation—ready for immediate deployment in hospitality environments.
 
 ## ✨ Features
 
@@ -30,8 +43,8 @@ A complete AI-powered solution for translating hotel menu items from English to 
 
 ```powershell
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/bilingual-menu-translation.git
-cd bilingual-menu-translation
+git clone https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System.git
+cd AI-Powered-Bilingual-Menu-Translation-System
 
 # Create virtual environment
 python -m venv .venv
@@ -354,10 +367,10 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - 🎯 Improve translation accuracy with better hyperparameters
 - 🌐 Add support for more Indian languages (Tamil, Telugu, Bengali, etc.)
 - 🎨 Enhance the UI/UX
-- 🐛 Report bugs or suggest features via [Issues](https://github.com/YOUR_USERNAME/bilingual-menu-translation/issues)
+- 🐛 Report bugs or suggest features via [Issues](https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System/issues)
 - ⭐ Star the repo if you find it useful!
 
-## � License
+## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -365,9 +378,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+**Ravikiran**
+- GitHub: [@Ravikiran27](https://github.com/Ravikiran27)
+- Project: [AI-Powered-Bilingual-Menu-Translation-System](https://github.com/Ravikiran27/AI-Powered-Bilingual-Menu-Translation-System)
 
 ## 🙏 Acknowledgments
 
