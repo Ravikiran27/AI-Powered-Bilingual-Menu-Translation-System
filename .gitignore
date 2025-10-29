@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.pyre/
+
+# Virtual environments
+venv/
+.env/
+.env.*
+ENV/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.idea/
+*.sln
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model and training outputs
+saved_model/
+training_logs/
+*.pt
+*.pth
+*.safetensors
+
+# Misc
+*.log
+*.cache
+coverage.xml
+htmlcov/
+
+# Secrets
+.env
+secrets.json
+
+# Large files
+*.ckpt
+

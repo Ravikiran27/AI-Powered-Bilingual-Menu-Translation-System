@@ -1,0 +1,501 @@
+item_id,english_name,kannada_name,hindi_name
+1,Idli,ಇಡ್ಲಿ,इडली
+2,Masala Dosa,ಮಸಾಲೆ ದೋಸೆ,मसाला डोसा
+3,Plain Dosa,ಪ್ಲೇನ್ ದೋಸೆ,सादा डोसा
+4,Rava Dosa,ರವಾ ದೋಸೆ,रवा डोसा
+5,Vada,ವಡೆ,वड़ा
+6,Upma,ಉಪ್ಮ,उपमा
+7,Pongal,ಪೊಂಗಲ್,पोंगल
+8,Poori,ಪೂರಿ,पुरी
+9,Aloo Paratha,ಅಲೂ ಪರೋತ್ತಾ,आलू पराठा
+10,Paneer Butter Masala,ಪನೀರ್ ಬಟರ್ ಮಸಾಲಾ,पनीर बटर मसाला
+11,Palak Paneer,ಪಾಲಕ್ ಪನೀರ್,पालक पनीर
+12,Dal Makhani,ದಾಲ್ ಮಖನಿ,दाल मखनी
+13,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+14,Mix Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+15,Navratan Korma,ನವರೆತನ ಕೋರಮಾ,नवरतन कोरमा
+16,Paneer Tikka,ಪನೀರ್ ಟಿಕ್ಕಾ,पनीर टिक्का
+17,Paneer Tikka Masala,ಪನೀರ್ ಟಿಕ್ಕಾ ಮಸಾಲಾ,पनीर टिक्का मसाला
+18,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+19,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+20,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+21,Paneer Lababdar,ಪನೀರ್ ಲಬ್ಬಾಬ್ದಾರ್,पनीर लबाबदार
+22,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+23,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+24,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+25,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+26,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+27,Jeera Rice,ಜೀರೆ ಅನ್ನ,जीरा चावल
+28,Lemon Rice,ಲಿಂಬೆ ಅನ್ನ,नींबू चावल
+29,Tamarind Rice,ಪಲ್ಲು ಅನ್ನ,इमली चावल
+30,Veg Biryani,ತರಕಾರಿ ಬಿರಿಯಾನಿ,वेज बिरयानी
+31,Hyderabadi Veg Biryani,ಹೈದರಾಬಾದಿ ತರಕಾರಿ ಬಿರಿಯಾನಿ,हैदराबादी वेज बिरयानी
+32,Chicken Curry,ಚಿಕನ್ ಕರೀ,चिकन करी
+33,Chicken Biryani,ಚಿಕನ್ ಬಿರಿಯಾನಿ,चिकन बिरयानी
+34,Hyderabadi Chicken Biryani,ಹೈದರಾಬಾದಿ ಚಿಕನ್ ಬಿರಿಯಾನಿ,हैदराबादी चिकन बिरयानी
+35,Mutton Curry,ಮಟನ್ ಕರೀ,मटन करी
+36,Fish Curry,ಮೀನು ಕರೀ,मछली करी
+37,Egg Curry,ಮೂಲೆ ಕರೀ,अंडा करी
+38,Butter Chicken,ಬಟರ್ ಚಿಕನ್,बटर चिकन
+39,Chicken Tikka Masala,ಚಿಕನ್ ಟಿಕ್ಕಾ ಮಸಾಲಾ,चिकन टिक्का मसाला
+40,Chicken Do Pyaza,ಚಿಕನ್ ಡೋ ಪ್ಯಾಜಾ,चिकन दो प्याज़ा
+41,Chicken Korma,ಚಿಕನ್ ಕೋರಮಾ,चिकन कोरमा
+42,Chicken Saag,ಚಿಕನ್ ಪಾಲಕ್,चिकन साग
+43,Paneer Pakora,ಪನೀರ್ ಪಕೋಡಾ,पनीर पकोड़ा
+44,Veg Pakora,ತರಕಾರಿ ಪಕೋಡಾ,वेज पकोड़ा
+45,Samosa,ಸಮೋಸಾ,समोसा
+46,Aloo Tikki,ಅಲೂ ಟಿಕ್ಕಿ,आलू टिक्की
+47,Fish Fry,ಮೀನು ಫ್ರೈ,फिश फ्राई
+48,Butter Naan,ಬೆಣ್ಣೆ ನಾನ್,बटर नान
+49,Plain Naan,ಪ್ಲೇನ್ ನಾನ್,सादा नान
+50,Tandoori Roti,ತಂದೂರಿ ರೋಟಿ,तंदूरी रोटी
+51,Missi Roti,ಮಿಸ್ಸಿ ರೋಟಿ,मिस्सी रोटी
+52,Gulab Jamun,ಗುಲಾಬ್ ಜಾಮುನ್,गुलाब जामुन
+53,Rasgulla,ರಸ್ಗುಲ್ಲ,रसगुल्ला
+54,Kheer,ಖೀರ್,खीर
+55,Jalebi,ಜಿಲೇಬಿ,जलेबी
+56,Ladoo,ಲಾಡೂ,लड्डू
+57,Gajar Halwa,ಗಾಜರ್ ಹಾಲ್ವಾ,गाजर हलवा
+58,Chai,ಚಹಾ,चाय
+59,Coffee,ಕಾಫಿ,कॉफी
+60,Masala Chai,ಮಸಾಲೆ ಚಹಾ,मसाला चाय
+61,Lassi,ಲಸ್ಸಿ,लस्सी
+62,Buttermilk,ಬಟರ್ ಮಿಲ್ಕ್,छाछ
+63,Lemonade,ಲೆಮನೇಡ್,नींबू पानी
+64,Idiyappam,ಇಡಿಯಪ್ಪಮ್,इडियप्पम
+65,Neer Dosa,ನೀರ್ ದೋಸೆ,नीर डोसा
+66,Mysore Masala Dosa,ಮೈಸೂರು ಮಸಾಲೆ ದೋಸೆ,मैसूर मसाला डोसा
+67,Ragi Mudde,ರಾಗಿ ಮುದ್ದೆ,रागी मुड्डे
+68,Undhiyu,ಉಂಧಿಯು,उंधियू
+69,Khandvi,ಖಂಡವಿ,खंडवी
+70,Shorshe Ilish,ಶೋಷೆ ಇಲಿಶ್,सर्षे इlish
+71,Chingri Malai Curry,ಚಿಂಗ್ರೀ ಮಲೈ ಕರೀ,चिंगरी मलाई करी
+72,Rajma,ರಾಜ್ಮಾ,राजमा
+73,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+74,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+75,Paneer Lababdar,ಪನೀರ್ ಲಬ್ಬಾಬ್ದಾರ್,पनीर लबाबदार
+76,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+77,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+78,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+79,Chole,ಚೋಲೆ,छोले
+80,Paneer Pasanda,ಪನೀರ್ ಪಸಾಂಡಾ,पनीर पसांडा
+81,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+82,Malai Mushroom,ಮಲಾಯಿ ಮಶ್ರೂಮ್,मलाई मशरूम
+83,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+84,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+85,Chicken Shahi Korma,ಚಿಕನ್ ಶಾಹಿ ಕೋರಮಾ,चिकन शाही कोरमा
+86,Chicken Angara,ಚಿಕನ್ ಅಂಗಾರ,चिकन अंगारा
+87,Chicken Hyderabadi,ಚಿಕನ್ ಹೈದರಾಬಾದಿ,हैदराबादी चिकन
+88,Mutton Rogan Josh,ಮಟನ್ ರೋಗನ್ ಜೋಶ್,मटन रोगन जोश
+89,Mutton Korma,ಮಟನ್ ಕೋರಮಾ,मटन कोरमा
+90,Mutton Do Pyaza,ಮಟನ್ ಡೋ ಪ್ಯಾಜಾ,मटन दो प्याज़ा
+91,Goan Fish Curry,ಗೋನ್ ಮೀನು ಕರೀ,गोवा फिश करी
+92,Meen Moilee,ಮೀನು ಮೊಇಲೆ,मीन मोइली
+93,Egg Bhurji,ಮೂಲೆ ಭರ್ಜೀ,अंडा भुर्जी
+94,Egg Curry,ಮೂಲೆ ಕರೀ,अंडा करी
+95,Chicken Vindaloo,ಚಿಕನ್ ವಿನ್ದಾಲೂ,चिकन विंदालू
+96,Chicken Chettinad,ಚಿಕನ್ ಚೆಟ್ಟಿನಾಡ್,चिकन चेट्टिनाड
+97,Chicken Kolhapuri,ಚಿಕನ್ ಕೊಲ್ಹಾಪುರಿ,चिकन कोल्हापुरी
+98,Butter Chicken,ಬಟರ್ ಚಿಕನ್,बटर चिकन
+99,Chicken Masala,ಚಿಕನ್ ಮಸಾಲಾ,चिकन मसाला
+100,Chicken Lababdar,ಚಿಕನ್ ಲಬ್ಬಾಬ್ದಾರ್,चिकन लबाबदार
+101,Mutton Masala,ಮಟನ್ ಮಸಾಲಾ,मटन मसाला
+102,Mutton Lababdar,ಮಟನ್ ಲಬ್ಬಾಬ್ದಾರ್,मटन लबाबदार
+103,Mutton Saag,ಮಟನ್ ಪಾಲಕ್,मटन साग
+104,Goan Prawn Curry,ಗೋನ್ ಚಿಂಗರಿ ಕರೀ,गोवा प्रॉन करी
+105,Chettinad Prawn Curry,ಚೆಟ್ಟಿನಾಡ್ ಚಿಂಗರಿ ಕರೀ,चेट्टिनाड प्रॉन करी
+106,Prawn Masala,ಚಿಂಗರಿ ಮಸಾಲಾ,प्रॉन मसाला
+107,Prawn Fry,ಚಿಂಗರಿ ಫ್ರೈ,प्रॉन फ्राई
+108,Fish Tikka,ಮೀನು ಟಿಕ್ಕಾ,फिश टिक्का
+109,Fish Masala,ಮೀನು ಮಸಾಲಾ,फिश मसाला
+110,Fish Fry,ಮೀನು ಫ್ರೈ,फिश फ्राई
+111,Egg Masala,ಮೂಲೆ ಮಸಾಲಾ,अंडा मसाला
+112,Egg Bhurji,ಮೂಲೆ ಭರ್ಜೀ,अंडा भुर्जी
+113,Paneer Tandoori,ಪನೀರ್ ತಂದೂರಿ,पनीर तंदूरी
+114,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+115,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+116,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+117,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+118,Paneer Lababdar,ಪನೀರ್ ಲಬ್ಬಾಬ್ದಾರ್,पनीर लबाबदार
+119,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+120,Mixed Veg Handi,ಮಿಶ್ರ ತರಕಾರಿ ಹಂಡಿ,मिक्स वेज हांडी
+121,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+122,Mixed Veg Masala,ಮಿಶ್ರ ತರಕಾರಿ ಮಸಾಲಾ,मिक्स वेज मसाला
+123,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+124,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+125,Veg Biryani,ತರಕಾರಿ ಬಿರಿಯಾನಿ,वेज बिरयानी
+126,Hyderabadi Veg Biryani,ಹೈದರಾಬಾದಿ ತರಕಾರಿ ಬಿರಿಯಾನಿ,हैदराबादी वेज बिरयानी
+127,Jeera Rice,ಜೀರೆ ಅನ್ನ,जीरा चावल
+128,Lemon Rice,ಲಿಂಬೆ ಅನ್ನ,नींबू चावल
+129,Tamarind Rice,ಪಲ್ಲು ಅನ್ನ,इमली चावल
+130,Curd Rice,ಮೊಸರು ಅನ್ನ,दही चावल
+131,Coconut Rice,ತೆಂಗಿನ ಅಕ್ಕಿ,नारियल चावल
+132,Biryani Rice,ಬಿರಿಯಾನಿ ಅನ್ನ,बिरयानी चावल
+133,Chicken Biryani,ಚಿಕನ್ ಬಿರಿಯಾನಿ,चिकन बिरयानी
+134,Hyderabadi Chicken Biryani,ಹೈದರಾಬಾದಿ ಚಿಕನ್ ಬಿರಿಯಾನಿ,हैदराबादी चिकन बिरयानी
+135,Andhra Chicken Biryani,ಆಂಧ್ರ ಚಿಕನ್ ಬಿರಿಯಾನಿ,आंध्र चिकन बिरयानी
+136,Goan Chicken Biryani,ಗೋನ್ ಚಿಕನ್ ಬಿರಿಯಾನಿ,गोवा चिकन बिरयानी
+137,Mutton Biryani,ಮಟನ್ ಬಿರಿಯಾನಿ,मटन बिरयानी
+138,Hyderabadi Mutton Biryani,ಹೈದರಾಬಾದಿ ಮಟನ್ ಬಿರಿಯಾನಿ,हैदराबादी मटन बिरयानी
+139,Chicken Curry,ಚಿಕನ್ ಕರೀ,चिकन करी
+140,Chicken Do Pyaza,ಚಿಕನ್ ಡೋ ಪ್ಯಾಜಾ,चिकन दो प्याज़ा
+141,Chicken Korma,ಚಿಕನ್ ಕೋರಮಾ,चिकन कोरमा
+142,Chicken Saag,ಚಿಕನ್ ಪಾಲಕ್,चिकन साग
+143,Chicken Handi,ಚಿಕನ್ ಹಂಡಿ,चिकन हांडी
+144,Chicken Masala,ಚಿಕನ್ ಮಸಾಲಾ,चिकन मसाला
+145,Butter Chicken,ಬಟರ್ ಚಿಕನ್,बटर चिकन
+146,Chicken Tikka Masala,ಚಿಕನ್ ಟಿಕ್ಕಾ ಮಸಾಲಾ,चिकन टिक्का मसाला
+147,Chicken Kolhapuri,ಚಿಕನ್ ಕೊಲ್ಹಾಪುರಿ,चिकन कोल्हापुरी
+148,Chicken Chettinad,ಚಿಕನ್ ಚೆಟ್ಟಿನಾಡ್,चिकन चेट्टिनाड
+149,Chicken Vindaloo,ಚಿಕನ್ ವಿನ್ದಾಲೂ,चिकन विंदालू
+150,Chicken Angara,ಚಿಕನ್ ಅಂಗಾರ,चिकन अंगारा
+151,Mutton Curry,ಮಟನ್ ಕರೀ,मटन करी
+152,Mutton Korma,ಮಟನ್ ಕೋರಮಾ,मटन कोरमा
+153,Mutton Do Pyaza,ಮಟನ್ ಡೋ ಪ್ಯಾಜಾ,मटन दो प्याज़ा
+154,Mutton Rogan Josh,ಮಟನ್ ರೋಗನ್ ಜೋಶ್,मटन रोगन जोश
+155,Goan Fish Curry,ಗೋನ್ ಮೀನು ಕರೀ,गोवा फिश करी
+156,Meen Moilee,ಮೀನು ಮೊಇಲೆ,मीन मोइली
+157,Fish Fry,ಮೀನು ಫ್ರೈ,फिश फ्राई
+158,Fish Tikka,ಮೀನು ಟಿಕ್ಕಾ,फिश टिक्का
+159,Fish Masala,ಮೀನು ಮಸಾಲಾ,फिश मसाला
+160,Prawn Curry,ಚಿಂಗರಿ ಕರೀ,प्रॉन करी
+161,Prawn Masala,ಚಿಂಗರಿ ಮಸಾಲಾ,प्रॉन मसाला
+162,Prawn Fry,ಚಿಂಗರಿ ಫ್ರೈ,प्रॉन फ्राई
+163,Paneer Pakora,ಪನೀರ್ ಪಕೋಡಾ,पनीर पकोड़ा
+164,Veg Pakora,ತರಕಾರಿ ಪಕೋಡಾ,वेज पकोड़ा
+165,Samosa,ಸಮೋಸಾ,समोसा
+166,Aloo Tikki,ಅಲೂ ಟಿಕ್ಕಿ,आलू टिक्की
+167,Onion Pakora,ಈರುಳ್ಳಿ ಪಕೋಡಾ,प्याज पकोड़ा
+168,Paneer Tikka,ಪನೀರ್ ಟಿಕ್ಕಾ,पनीर टिक्का
+169,Paneer Tikka Masala,ಪನೀರ್ ಟಿಕ್ಕಾ ಮಸಾಲಾ,पनीर टिक्का मसाला
+170,Paneer Lababdar,ಪನೀರ್ ಲಬ್ಬಾಬ್ದಾರ್,पनीर लबाबदार
+171,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+172,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+173,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+174,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+175,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+176,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+177,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+178,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+179,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+180,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+181,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+182,Chole,ಚೋಲೆ,छोले
+183,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+184,Rajma,ರಾಜ್ಮಾ,राजमा
+185,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+186,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+187,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+188,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+189,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+190,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+191,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+192,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+193,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+194,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+195,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+196,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+197,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+198,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+199,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+200,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+201,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+202,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+203,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+204,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+205,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+206,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+207,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+208,Chole,ಚೋಲೆ,छोले
+209,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+210,Rajma,ರಾಜ್ಮಾ,राजमा
+211,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+212,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+213,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+214,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+215,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+216,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+217,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+218,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+219,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+220,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+221,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+222,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+223,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+224,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+225,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+226,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+227,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+228,Veg Biryani,ತರಕಾರಿ ಬಿರಿಯಾನಿ,वेज बिरयानी
+229,Hyderabadi Veg Biryani,ಹೈದರಾಬಾದಿ ತರಕಾರಿ ಬಿರಿಯಾನಿ,हैदराबादी वेज बिरयानी
+230,Jeera Rice,ಜೀರೆ ಅನ್ನ,जीरा चावल
+231,Lemon Rice,ಲಿಂಬೆ ಅನ್ನ,नींबू चावल
+232,Tamarind Rice,ಪಲ್ಲು ಅನ್ನ,इमली चावल
+233,Curd Rice,ಮೊಸರು ಅನ್ನ,दही चावल
+234,Coconut Rice,ತೆಂಗಿನ ಅಕ್ಕಿ,नारियल चावल
+235,Biryani Rice,ಬಿರಿಯಾನಿ ಅನ್ನ,बिरयानी चावल
+236,Chicken Biryani,ಚಿಕನ್ ಬಿರಿಯಾನಿ,चिकन बिरयानी
+237,Hyderabadi Chicken Biryani,ಹೈದರಾಬಾದಿ ಚಿಕನ್ ಬಿರಿಯಾನಿ,हैदराबादी चिकन बिरयानी
+238,Andhra Chicken Biryani,ಆಂಧ್ರ ಚಿಕನ್ ಬಿರಿಯಾನಿ,आंध्र चिकन बिरयानी
+239,Goan Chicken Biryani,ಗೋನ್ ಚಿಕನ್ ಬಿರಿಯಾನಿ,गोवा चिकन बिरयानी
+240,Mutton Biryani,ಮಟನ್ ಬಿರಿಯಾನಿ,मटन बिरयानी
+241,Hyderabadi Mutton Biryani,ಹೈದರಾಬಾದಿ ಮಟನ್ ಬಿರಿಯಾನಿ,हैदराबादी मटन बिरयानी
+242,Chicken Curry,ಚಿಕನ್ ಕರೀ,चिकन करी
+243,Chicken Do Pyaza,ಚಿಕನ್ ಡೋ ಪ್ಯಾಜಾ,चिकन दो प्याज़ा
+244,Chicken Korma,ಚಿಕನ್ ಕೋರಮಾ,चिकन कोरमा
+245,Chicken Saag,ಚಿಕನ್ ಪಾಲಕ್,चिकन साग
+246,Chicken Handi,ಚಿಕನ್ ಹಂಡಿ,चिकन हांडी
+247,Chicken Masala,ಚಿಕನ್ ಮಸಾಲಾ,चिकन मसाला
+248,Butter Chicken,ಬಟರ್ ಚಿಕನ್,बटर चिकन
+249,Chicken Tikka Masala,ಚಿಕನ್ ಟಿಕ್ಕಾ ಮಸಾಲಾ,चिकन टिक्का मसाला
+250,Chicken Kolhapuri,ಚಿಕನ್ ಕೊಲ್ಹಾಪುರಿ,चिकन कोल्हापुरी
+251,Chicken Chettinad,ಚಿಕನ್ ಚೆಟ್ಟಿನಾಡ್,चिकन चेट्टिनाड
+252,Chicken Vindaloo,ಚಿಕನ್ ವಿನ್ದಾಲೂ,चिकन विंदालू
+253,Chicken Angara,ಚಿಕನ್ ಅಂಗಾರ,चिकन अंगारा
+254,Mutton Curry,ಮಟನ್ ಕರೀ,मटन करी
+255,Mutton Korma,ಮಟನ್ ಕೋರಮಾ,मटन कोरमा
+256,Mutton Do Pyaza,ಮಟನ್ ಡೋ ಪ್ಯಾಜಾ,मटन दो प्याज़ा
+257,Mutton Rogan Josh,ಮಟನ್ ರೋಗನ್ ಜೋಶ್,मटन रोगन जोश
+258,Goan Fish Curry,ಗೋನ್ ಮೀನು ಕರೀ,गोवा फिश करी
+259,Meen Moilee,ಮೀನು ಮೊಇಲೆ,मीन मोइली
+260,Fish Fry,ಮೀನು ಫ್ರೈ,फिश फ्राई
+261,Fish Tikka,ಮೀನು ಟಿಕ್ಕಾ,फिश टिक्का
+262,Fish Masala,ಮೀನು ಮಸಾಲಾ,फिश मसाला
+263,Prawn Curry,ಚಿಂಗರಿ ಕರೀ,प्रॉन करी
+264,Prawn Masala,ಚಿಂಗರಿ ಮಸಾಲಾ,प्रॉन मसाला
+265,Prawn Fry,ಚಿಂಗರಿ ಫ್ರೈ,प्रॉन फ्राई
+266,Paneer Pakora,ಪನೀರ್ ಪಕೋಡಾ,पनीर पकोड़ा
+267,Veg Pakora,ತರಕಾರಿ ಪಕೋಡಾ,वेज पकोड़ा
+268,Samosa,ಸಮೋಸಾ,समोसा
+269,Aloo Tikki,ಅಲೂ ಟಿಕ್ಕಿ,आलू टिक्की
+270,Onion Pakora,ಈರುಳ್ಳಿ ಪಕೋಡಾ,प्याज पकोड़ा
+271,Paneer Tikka,ಪನೀರ್ ಟಿಕ್ಕಾ,पनीर टिक्का
+272,Paneer Tikka Masala,ಪನೀರ್ ಟಿಕ್ಕಾ ಮಸಾಲಾ,पनीर टिक्का मसाला
+273,Paneer Lababdar,ಪನೀರ್ ಲಬ್ಬಾಬ್ದಾರ್,पनीर लबाबदार
+274,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+275,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+276,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+277,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+278,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+279,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+280,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+281,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+282,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+283,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+284,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+285,Chole,ಚೋಲೆ,छोले
+286,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+287,Rajma,ರಾಜ್ಮಾ,राजमा
+288,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+289,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+290,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+291,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+292,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+293,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+294,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+295,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+296,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+297,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+298,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+299,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+300,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+301,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+302,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+303,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+304,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+305,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+306,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+307,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+308,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+309,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+310,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+311,Chole,ಚೋಲೆ,छोले
+312,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+313,Rajma,ರಾಜ್ಮಾ,राजमा
+314,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+315,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+316,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+317,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+318,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+319,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+320,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+321,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+322,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+323,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+324,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+325,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+326,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+327,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+328,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+329,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+330,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+331,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+332,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+333,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+334,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+335,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+336,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+337,Chole,ಚೋಲೆ,छोले
+338,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+339,Rajma,ರಾಜ್ಮಾ,राजमा
+340,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+341,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+342,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+343,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+344,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+345,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+346,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+347,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+348,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+349,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+350,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+351,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+352,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+353,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+354,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+355,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+356,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+357,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+358,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+359,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+360,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+361,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+362,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+363,Chole,ಚೋಲೆ,छोले
+364,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+365,Rajma,ರಾಜ್ಮಾ,राजमा
+366,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+367,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+368,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+369,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+370,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+371,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+372,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+373,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+374,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+375,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+376,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+377,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+378,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+379,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+380,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+381,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+382,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+383,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+384,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+385,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+386,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+387,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+388,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+389,Chole,ಚೋಲೆ,छोले
+390,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+391,Rajma,ರಾಜ್ಮಾ,राजमा
+392,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+393,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+394,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+395,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+396,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+397,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+398,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+399,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+400,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+401,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+402,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+403,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+404,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+405,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+406,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+407,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+408,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+409,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+410,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+411,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+412,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+413,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+414,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+415,Chole,ಚೋಲೆ,छोले
+416,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+417,Rajma,ರಾಜ್ಮಾ,राजमा
+418,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+419,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+420,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+421,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+422,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+423,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+424,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+425,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+426,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+427,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+428,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+429,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+430,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+431,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+432,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+433,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+434,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+435,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+436,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+437,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+438,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+439,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+440,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+441,Chole,ಚೋಲೆ,छोले
+442,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+443,Rajma,ರಾಜ್ಮಾ,राजमा
+444,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+445,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+446,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+447,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+448,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+449,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+450,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+451,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+452,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+453,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+454,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+455,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+456,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+457,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+458,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+459,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+460,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+461,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+462,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+463,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+464,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+465,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+466,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+467,Chole,ಚೋಲೆ,छोले
+468,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+469,Rajma,ರಾಜ್ಮಾ,राजमा
+470,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+471,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+472,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+473,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+474,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम
+475,Paneer Pudina Masala,ಪನೀರ್ ಪುಡಿನಾ ಮಸಾಲಾ,पनीर पुदीना मसाला
+476,Paneer Kali Mirch,ಪನೀರ್ ಕಾಳಿ ಮಿರ್ಚ್,पनीर काली मिर्च
+477,Paneer Achari,ಪನೀರ್ ಅಚಾರಿ,पनीर अचारी
+478,Paneer Handi,ಪನೀರ್ ಹಂಡಿ,पनीर हांडी
+479,Paneer Makhani,ಪನೀರ್ ಮಖನಿ,पनीर मखनी
+480,Paneer Khurchan,ಪನೀರ್ ಖುರ್ಚನ್,पनीर खुर्चन
+481,Butter Paneer,ಬಟರ್ ಪನೀರ್,बटर पनीर
+482,Shahi Paneer,ಶಾಹಿ ಪನೀರ್,शाही पनीर
+483,Kadai Paneer,ಕಡಾಯಿ ಪನೀರ್,कड़ाई पनीर
+484,Paneer Do Pyaza,ಪನೀರ್ ಡೋ ಪ್ಯಾಜಾ,पनीर दो प्याज़ा
+485,Malai Kofta,ಮಲಾಯಿ ಕೊಫ್ತಾ,मलाई कोफ्ता
+486,Mushroom Masala,ಮಶ್ರೂಮ್ ಮಸಾಲಾ,मशरूम मसाला
+487,Veg Kofta,ತರಕಾರಿ ಕೊಫ್ತಾ,वेज कोफ्ता
+488,Veg Korma,ತರಕಾರಿ ಕೋರಮಾ,वेज कोरमा
+489,Mixed Veg Curry,ಮಿಶ್ರ ತರಕಾರಿ ಕರೀ,मिक्स वेज करी
+490,Dal Tadka,ದಾಲ್ ತಡ್ಕಾ,दाल तड़का
+491,Dal Fry,ದಾಲ್ ಫ್ರೈ,दाल फ्राई
+492,Dal Bukhara,ದಾಲ್ ಬುಖಾರಾ,दाल बुखारा
+493,Chole,ಚೋಲೆ,छोले
+494,Chana Masala,ಚಣಾ ಮಸಾಲಾ,चना मसाला
+495,Rajma,ರಾಜ್ಮಾ,राजमा
+496,Aloo Gobhi,ಅಲೂ ಗಾಬಿ,आलू गोभी
+497,Bhindi Masala,ಭಿಂಡಿ ಮಸಾಲಾ,भिंडी मसाला
+498,Cauliflower Masala,ಹೂಕು ಮಸಾಲಾ,फूलगोभी मसाला
+499,Methi Malai Paneer,ಮೆಥಿ ಮಲಾಯಿ ಪನೀರ್,मेथी मलाई पनीर
+500,Palak Mushroom,ಪಾಲಕ್ ಮಶ್ರೂಮ್,पालक मशरूम

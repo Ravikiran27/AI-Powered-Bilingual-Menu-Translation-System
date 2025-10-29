@@ -1,0 +1,75 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bilingual-menu-translation"
+version = "1.0.0"
+description = "AI-powered bilingual menu translation system for English to Hindi and Kannada"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+keywords = ["translation", "NLP", "transformers", "Hindi", "Kannada", "OCR", "menu"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+]
+
+dependencies = [
+    "torch>=2.0.0",
+    "transformers>=4.30.0",
+    "sentencepiece>=0.1.99",
+    "protobuf>=3.20.0",
+    "tokenizers>=0.13.0",
+    "datasets>=2.12.0",
+    "scikit-learn>=1.2.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "easyocr>=1.7.0",
+    "Pillow>=9.5.0",
+    "opencv-python>=4.7.0",
+    "streamlit>=1.28.0",
+    "gradio>=3.50.0",
+    "sacrebleu>=2.3.0",
+    "evaluate>=0.4.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=22.0.0",
+    "flake8>=5.0.0",
+    "jupyter>=1.0.0",
+    "ipykernel>=6.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/YOUR_USERNAME/bilingual-menu-translation"
+Documentation = "https://github.com/YOUR_USERNAME/bilingual-menu-translation#readme"
+Repository = "https://github.com/YOUR_USERNAME/bilingual-menu-translation.git"
+Issues = "https://github.com/YOUR_USERNAME/bilingual-menu-translation/issues"
+
+[tool.setuptools]
+packages = ["bilingual_menu_translation"]
+
+[tool.black]
+line-length = 120
+target-version = ['py310']
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
